@@ -1,3 +1,5 @@
 1.A pie chart is a circular graph divided into sectors representing different categories.
 
 2.Each sector shows the proportion or percentage of the whole.
+
+3.Pie charts are useful for displaying relative contributions of categories.
