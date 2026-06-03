@@ -1,0 +1,31 @@
+Bar Graph:
+
+-A bar graph uses rectangular bars to represent data.
+
+-It is mainly used to compare values between different categories.
+
+-The graph has both X-axis and Y-axis.
+
+-The height or length of each bar indicates the value.
+
+-It is easy to compare exact quantities using a bar graph.
+
+
+Pie Chart:
+
+-A pie chart is a circular graph divided into sectors (slices).
+
+-It is used to show how different categories contribute to a whole.
+
+-Each slice represents a percentage or proportion of the total.
+
+-Pie charts do not use X-axis or Y-axis.
+
+-They provide a quick visual understanding of data distribution.
+
+
+Difference:
+
+-Bar Graph: Best for comparing values.
+
+-Pie Chart: Best for showing percentages and proportions.
