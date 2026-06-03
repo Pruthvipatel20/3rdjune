@@ -3,3 +3,5 @@
 2.The height or length of each bar corresponds to the value it represents.
 
 3.Bar graphs are useful for comparing quantities among different categories.
+
+4.They can be displayed either vertically or horizontally.
