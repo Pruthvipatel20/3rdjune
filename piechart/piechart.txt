@@ -5,3 +5,5 @@
 3.Pie charts are useful for displaying relative contributions of categories.
 
 4.They provide a quick visual understanding of data distribution.
+
+5.Pie charts are most effective when the number of categories is limited.
