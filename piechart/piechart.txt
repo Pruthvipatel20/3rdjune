@@ -3,3 +3,5 @@
 2.Each sector shows the proportion or percentage of the whole.
 
 3.Pie charts are useful for displaying relative contributions of categories.
+
+4.They provide a quick visual understanding of data distribution.
