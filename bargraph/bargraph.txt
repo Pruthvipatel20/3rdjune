@@ -1,4 +1,4 @@
----ABOUT BAR GRAPH---
+----ABOUT BAR GRAPH----
 
 1.A bar graph is used to represent data using rectangular bars of equal width.
 
