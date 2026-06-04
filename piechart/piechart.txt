@@ -1,4 +1,4 @@
----ABOUT PIE CHART---
+----ABOUT PIE CHART----
 
 1.A pie chart is a circular graph divided into sectors representing different categories.
 
