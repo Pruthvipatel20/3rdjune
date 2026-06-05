@@ -1,4 +1,4 @@
-Bar Graph:
+Bar Graph:-
 
 -A bar graph uses rectangular bars to represent data.
 
@@ -11,7 +11,7 @@ Bar Graph:
 -It is easy to compare exact quantities using a bar graph.
 
 
-Pie Chart:
+Pie Chart:-
 
 -A pie chart is a circular graph divided into sectors (slices).
 
@@ -24,7 +24,7 @@ Pie Chart:
 -They provide a quick visual understanding of data distribution.
 
 
-Difference:
+Difference:-
 
 -Bar Graph: Best for comparing values.
 
